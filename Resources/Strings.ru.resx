@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="Record" xml:space="preserve"><value>Записать</value></data>
+  <data name="Save" xml:space="preserve"><value>Сохранить…</value></data>
+  <data name="Open" xml:space="preserve"><value>Открыть…</value></data>
+  <data name="Start" xml:space="preserve"><value>Старт</value></data>
+  <data name="Pause" xml:space="preserve"><value>Пауза</value></data>
+  <data name="Stop" xml:space="preserve"><value>Стоп</value></data>
+  <data name="Resume" xml:space="preserve"><value>Продолжить</value></data>
+  <data name="Loop" xml:space="preserve"><value>По кругу</value></data>
+  <data name="Repeats" xml:space="preserve"><value>Повторить</value></data>
+  <data name="Speed" xml:space="preserve"><value>Скорость</value></data>
+  <data name="RecordGroup" xml:space="preserve"><value>Запись</value></data>
+  <data name="PlaybackGroup" xml:space="preserve"><value>Повтор</value></data>
+  <data name="Status" xml:space="preserve"><value>Состояние</value></data>
+  <data name="RepeatCount" xml:space="preserve"><value>Количество повторений</value></data>
+  <data name="PlaybackStartKey" xml:space="preserve"><value>Горячая клавиша начала воспроизведения</value></data>
+  <data name="PlaybackStopKey" xml:space="preserve"><value>Горячая клавиша остановки воспроизведения</value></data>
+  <data name="PlaybackPauseKey" xml:space="preserve"><value>Горячая клавиша паузы воспроизведения</value></data>
+  <data name="RecordStartKey" xml:space="preserve"><value>Горячая клавиша начала записи</value></data>
+  <data name="RecordStopKey" xml:space="preserve"><value>Горячая клавиша остановки записи</value></data>
+  <data name="Ready" xml:space="preserve"><value>Запишите действие или откройте сохранённый макрос.</value></data>
+  <data name="Theme" xml:space="preserve"><value>Тема</value></data>
+  <data name="ThemeLight" xml:space="preserve"><value>Светлая</value></data>
+  <data name="ThemeDark" xml:space="preserve"><value>Тёмная</value></data>
+  <data name="ThemeStandard" xml:space="preserve"><value>Стандарт</value></data>
+  <data name="ThemeTemporary" xml:space="preserve"><value>Тема изменена на время этого сеанса.</value></data>
+  <data name="MusicFailed" xml:space="preserve"><value>Не удалось воспроизвести песню. Проверьте устройство вывода звука.</value></data>
+  <data name="MusicOn" xml:space="preserve"><value>Включить музыку</value></data>
+  <data name="MusicOff" xml:space="preserve"><value>Выключить музыку</value></data>
+  <data name="InputUnavailable" xml:space="preserve"><value>Не удалось подключиться к вводу Windows.</value></data>
+  <data name="InputRejected" xml:space="preserve"><value>Windows не приняла ввод для воспроизведения.</value></data>
+  <data name="RecordingStop" xml:space="preserve"><value>Идёт запись. Остановить — {0}.</value></data>
+  <data name="PlayingStop" xml:space="preserve"><value>Воспроизведение. Стоп — {0}.</value></data>
+  <data name="PlaybackComplete" xml:space="preserve"><value>Воспроизведение завершено.</value></data>
+  <data name="PlaybackStopped" xml:space="preserve"><value>Воспроизведение остановлено.</value></data>
+  <data name="PausedResume" xml:space="preserve"><value>Пауза. Продолжить — {0}.</value></data>
+  <data name="RecordingReady" xml:space="preserve"><value>Запись готова к сохранению и запуску.</value></data>
+  <data name="RecordingEmpty" xml:space="preserve"><value>Запись пуста.</value></data>
+  <data name="Stopping" xml:space="preserve"><value>Остановка…</value></data>
+  <data name="MacroOpened" xml:space="preserve"><value>Макрос открыт.</value></data>
+  <data name="MacroSaved" xml:space="preserve"><value>Макрос сохранён.</value></data>
+  <data name="MacroFilter" xml:space="preserve"><value>Макрос Clickold (*.json)|*.json</value></data>
+  <data name="DefaultMacro" xml:space="preserve"><value>Макрос</value></data>
+  <data name="MacroReadFailed" xml:space="preserve"><value>Этот файл не удалось прочитать как макрос Clickold.</value></data>
+  <data name="MacroWriteFailed" xml:space="preserve"><value>Не удалось сохранить макрос Clickold.</value></data>
+  <data name="MacroUnsupported" xml:space="preserve"><value>Файл не содержит макрос поддерживаемого формата.</value></data>
+  <data name="MacroInvalidEvent" xml:space="preserve"><value>В файле есть некорректное событие.</value></data>
+  <data name="Recording" xml:space="preserve"><value>Идёт запись</value></data>
+  <data name="NewRecording" xml:space="preserve"><value>Новая запись</value></data>
+  <data name="Events" xml:space="preserve"><value>Событий: {0}</value></data>
+  <data name="NoMacro" xml:space="preserve"><value>Макрос не загружен</value></data>
+  <data name="Completed" xml:space="preserve"><value>Выполнено: {0}</value></data>
+  <data name="DifferentKeys" xml:space="preserve"><value>Выберите разные горячие клавиши.</value></data>
+  <data name="HotkeysSaved" xml:space="preserve"><value>Горячие клавиши сохранены.</value></data>
+  <data name="HotkeysTemporary" xml:space="preserve"><value>Клавиши изменены на время этого сеанса.</value></data>
+  <data name="Illustration" xml:space="preserve"><value>Мужчина в кресле смотрит, как робот работает за компьютером</value></data>
+</root>

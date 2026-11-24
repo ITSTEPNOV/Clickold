@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="Record" xml:space="preserve"><value>Record</value></data>
+  <data name="Save" xml:space="preserve"><value>Save…</value></data>
+  <data name="Open" xml:space="preserve"><value>Open…</value></data>
+  <data name="Start" xml:space="preserve"><value>Start</value></data>
+  <data name="Pause" xml:space="preserve"><value>Pause</value></data>
+  <data name="Stop" xml:space="preserve"><value>Stop</value></data>
+  <data name="Resume" xml:space="preserve"><value>Resume</value></data>
+  <data name="Loop" xml:space="preserve"><value>Loop</value></data>
+  <data name="Repeats" xml:space="preserve"><value>Repeats</value></data>
+  <data name="Speed" xml:space="preserve"><value>Speed</value></data>
+  <data name="RecordGroup" xml:space="preserve"><value>Record</value></data>
+  <data name="PlaybackGroup" xml:space="preserve"><value>Playback</value></data>
+  <data name="Status" xml:space="preserve"><value>Status</value></data>
+  <data name="RepeatCount" xml:space="preserve"><value>Repeat count</value></data>
+  <data name="PlaybackStartKey" xml:space="preserve"><value>Start playback hotkey</value></data>
+  <data name="PlaybackStopKey" xml:space="preserve"><value>Stop playback hotkey</value></data>
+  <data name="PlaybackPauseKey" xml:space="preserve"><value>Pause playback hotkey</value></data>
+  <data name="RecordStartKey" xml:space="preserve"><value>Start recording hotkey</value></data>
+  <data name="RecordStopKey" xml:space="preserve"><value>Stop recording hotkey</value></data>
+  <data name="Ready" xml:space="preserve"><value>Record an action or open a saved macro.</value></data>
+  <data name="Theme" xml:space="preserve"><value>Theme</value></data>
+  <data name="ThemeLight" xml:space="preserve"><value>Light</value></data>
+  <data name="ThemeDark" xml:space="preserve"><value>Dark</value></data>
+  <data name="ThemeStandard" xml:space="preserve"><value>Standard</value></data>
+  <data name="ThemeTemporary" xml:space="preserve"><value>Theme changed for this session only.</value></data>
+  <data name="MusicFailed" xml:space="preserve"><value>Could not play the song. Check your audio output device.</value></data>
+  <data name="MusicOn" xml:space="preserve"><value>Play music</value></data>
+  <data name="MusicOff" xml:space="preserve"><value>Stop music</value></data>
+  <data name="InputUnavailable" xml:space="preserve"><value>Could not connect to Windows input.</value></data>
+  <data name="InputRejected" xml:space="preserve"><value>Windows rejected input during playback.</value></data>
+  <data name="RecordingStop" xml:space="preserve"><value>Recording. Press {0} to stop.</value></data>
+  <data name="PlayingStop" xml:space="preserve"><value>Playing. Press {0} to stop.</value></data>
+  <data name="PlaybackComplete" xml:space="preserve"><value>Playback finished.</value></data>
+  <data name="PlaybackStopped" xml:space="preserve"><value>Playback stopped.</value></data>
+  <data name="PausedResume" xml:space="preserve"><value>Paused. Press {0} to resume.</value></data>
+  <data name="RecordingReady" xml:space="preserve"><value>Recording ready to save or play.</value></data>
+  <data name="RecordingEmpty" xml:space="preserve"><value>No actions recorded.</value></data>
+  <data name="Stopping" xml:space="preserve"><value>Stopping…</value></data>
+  <data name="MacroOpened" xml:space="preserve"><value>Macro opened.</value></data>
+  <data name="MacroSaved" xml:space="preserve"><value>Macro saved.</value></data>
+  <data name="MacroFilter" xml:space="preserve"><value>Clickold macro (*.json)|*.json</value></data>
+  <data name="DefaultMacro" xml:space="preserve"><value>Macro</value></data>
+  <data name="MacroReadFailed" xml:space="preserve"><value>Could not read this Clickold macro.</value></data>
+  <data name="MacroWriteFailed" xml:space="preserve"><value>Could not save the Clickold macro.</value></data>
+  <data name="MacroUnsupported" xml:space="preserve"><value>The file does not contain a supported macro.</value></data>
+  <data name="MacroInvalidEvent" xml:space="preserve"><value>The file contains an invalid event.</value></data>
+  <data name="Recording" xml:space="preserve"><value>Recording</value></data>
+  <data name="NewRecording" xml:space="preserve"><value>New recording</value></data>
+  <data name="Events" xml:space="preserve"><value>Events: {0}</value></data>
+  <data name="NoMacro" xml:space="preserve"><value>No macro loaded</value></data>
+  <data name="Completed" xml:space="preserve"><value>Completed: {0}</value></data>
+  <data name="DifferentKeys" xml:space="preserve"><value>Choose different hotkeys.</value></data>
+  <data name="HotkeysSaved" xml:space="preserve"><value>Hotkeys saved.</value></data>
+  <data name="HotkeysTemporary" xml:space="preserve"><value>Hotkeys changed for this session only.</value></data>
+  <data name="Illustration" xml:space="preserve"><value>A man in an armchair watches a robot work at a computer.</value></data>
+</root>

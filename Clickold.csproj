@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ApplicationIcon>Art/clickold.ico</ApplicationIcon>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Art/clickold.ico;Art/logo.png;Art/meme.jpg;ThirdPartyNotices.txt" />
+    <EmbeddedResource Include="Art/Cuck Chair.mp3" LogicalName="Clickold.Art.Cuck_Chair.mp3" />
+    <PackageReference Include="NAudio.WinMM" Version="2.2.1" />
+    <PackageReference Include="NLayer" Version="1.16.0" />
+  </ItemGroup>
+</Project>

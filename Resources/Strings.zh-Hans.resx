@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+  <data name="Record" xml:space="preserve"><value>录制</value></data>
+  <data name="Save" xml:space="preserve"><value>保存…</value></data>
+  <data name="Open" xml:space="preserve"><value>打开…</value></data>
+  <data name="Start" xml:space="preserve"><value>开始</value></data>
+  <data name="Pause" xml:space="preserve"><value>暂停</value></data>
+  <data name="Stop" xml:space="preserve"><value>停止</value></data>
+  <data name="Resume" xml:space="preserve"><value>继续</value></data>
+  <data name="Loop" xml:space="preserve"><value>循环</value></data>
+  <data name="Repeats" xml:space="preserve"><value>重复次数</value></data>
+  <data name="Speed" xml:space="preserve"><value>速度</value></data>
+  <data name="RecordGroup" xml:space="preserve"><value>录制</value></data>
+  <data name="PlaybackGroup" xml:space="preserve"><value>回放</value></data>
+  <data name="Status" xml:space="preserve"><value>状态</value></data>
+  <data name="RepeatCount" xml:space="preserve"><value>重复次数</value></data>
+  <data name="PlaybackStartKey" xml:space="preserve"><value>开始回放热键</value></data>
+  <data name="PlaybackStopKey" xml:space="preserve"><value>停止回放热键</value></data>
+  <data name="PlaybackPauseKey" xml:space="preserve"><value>暂停或继续回放热键</value></data>
+  <data name="RecordStartKey" xml:space="preserve"><value>开始录制热键</value></data>
+  <data name="RecordStopKey" xml:space="preserve"><value>停止录制热键</value></data>
+  <data name="Ready" xml:space="preserve"><value>录制操作或打开已保存的宏。</value></data>
+  <data name="Theme" xml:space="preserve"><value>主题</value></data>
+  <data name="ThemeLight" xml:space="preserve"><value>浅色</value></data>
+  <data name="ThemeDark" xml:space="preserve"><value>深色</value></data>
+  <data name="ThemeStandard" xml:space="preserve"><value>标准</value></data>
+  <data name="ThemeTemporary" xml:space="preserve"><value>主题已更改，仅在本次运行期间有效。</value></data>
+  <data name="MusicFailed" xml:space="preserve"><value>无法播放歌曲。请检查音频输出设备。</value></data>
+  <data name="MusicOn" xml:space="preserve"><value>播放音乐</value></data>
+  <data name="MusicOff" xml:space="preserve"><value>停止音乐</value></data>
+  <data name="InputUnavailable" xml:space="preserve"><value>无法连接到 Windows 输入系统。</value></data>
+  <data name="InputRejected" xml:space="preserve"><value>Windows 拒绝了回放输入。</value></data>
+  <data name="RecordingStop" xml:space="preserve"><value>正在录制。按 {0} 停止。</value></data>
+  <data name="PlayingStop" xml:space="preserve"><value>正在回放。按 {0} 停止。</value></data>
+  <data name="PlaybackComplete" xml:space="preserve"><value>回放完成。</value></data>
+  <data name="PlaybackStopped" xml:space="preserve"><value>回放已停止。</value></data>
+  <data name="PausedResume" xml:space="preserve"><value>已暂停。按 {0} 继续。</value></data>
+  <data name="RecordingReady" xml:space="preserve"><value>录制完成，可以保存或回放。</value></data>
+  <data name="RecordingEmpty" xml:space="preserve"><value>未录制任何操作。</value></data>
+  <data name="Stopping" xml:space="preserve"><value>正在停止…</value></data>
+  <data name="MacroOpened" xml:space="preserve"><value>宏已打开。</value></data>
+  <data name="MacroSaved" xml:space="preserve"><value>宏已保存。</value></data>
+  <data name="MacroFilter" xml:space="preserve"><value>Clickold 宏 (*.json)|*.json</value></data>
+  <data name="DefaultMacro" xml:space="preserve"><value>宏</value></data>
+  <data name="MacroReadFailed" xml:space="preserve"><value>无法读取此 Clickold 宏。</value></data>
+  <data name="MacroWriteFailed" xml:space="preserve"><value>无法保存此 Clickold 宏。</value></data>
+  <data name="MacroUnsupported" xml:space="preserve"><value>此文件不包含受支持的宏。</value></data>
+  <data name="MacroInvalidEvent" xml:space="preserve"><value>此文件包含无效事件。</value></data>
+  <data name="Recording" xml:space="preserve"><value>正在录制</value></data>
+  <data name="NewRecording" xml:space="preserve"><value>新录制</value></data>
+  <data name="Events" xml:space="preserve"><value>事件数：{0}</value></data>
+  <data name="NoMacro" xml:space="preserve"><value>未加载宏</value></data>
+  <data name="Completed" xml:space="preserve"><value>已完成：{0}</value></data>
+  <data name="DifferentKeys" xml:space="preserve"><value>请为各项操作设置不同的热键。</value></data>
+  <data name="HotkeysSaved" xml:space="preserve"><value>热键已保存。</value></data>
+  <data name="HotkeysTemporary" xml:space="preserve"><value>热键已更改，仅在本次运行期间有效。</value></data>
+  <data name="Illustration" xml:space="preserve"><value>一名男子坐在扶手椅上，看着机器人操作电脑。</value></data>
+</root>
