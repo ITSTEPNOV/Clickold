@@ -2,7 +2,7 @@
 
 Clickold records and replays mouse and keyboard actions on Windows. Use it to repeat a desktop task or run through the same sequence of clicks and keystrokes during manual testing.
 
-[Download Clickold.exe](https://github.com/ITSTEPNOV/Clickold/releases/latest/download/Clickold.exe) for Windows x64. The portable release includes .NET and runs without installation.
+**Clickold is free for everyone to download and use.** The portable release for Windows x64 includes .NET and runs without installation. [Download Clickold.exe](https://github.com/ITSTEPNOV/Clickold/releases/latest/download/Clickold.exe)
 
 ## Quick start
 
